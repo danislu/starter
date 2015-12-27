@@ -1,0 +1,14 @@
+{
+  "name": "gulp-tutorial",
+  "version": "1.0.0",
+  "description": "Contains the code written while going through this [tutorial](https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "3.9.0"
+  }
+}
